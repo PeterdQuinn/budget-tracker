@@ -1,7 +1,9 @@
 body {
+  margin: 0;
+
   font-size: 120%;
   font-family: Arial;
-  background-image: url(../icons/budget2.png);
+  background-color: lightgreen;
 }
 
 button, input {

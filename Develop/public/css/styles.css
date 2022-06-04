@@ -1,6 +1,7 @@
 body {
   font-size: 120%;
   font-family: Arial;
+  background-image: url(../icons/budget2.png);
 }
 
 button, input {
@@ -13,13 +14,13 @@ table {
 }
 
 td, th {
-  border: 1px solid #dddddd;
+  border: 1px solid hsl(0, 94%, 31%);
   text-align: left;
   padding: 8px;
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
+  background-color: #c2afaf;
 }
 
 .error {
